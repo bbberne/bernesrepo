@@ -2,5 +2,7 @@ git push -u origin master när man har ett tomt repository eller vill lägga till 
 git status kollar statusen
 git commit -a -m "text" lägger till men inte final
 git pull hämtar innehåll från urlen
-git push kanske vill lägga upp saker
+git push kanske vill lägga upp saker men man måste köra första commandot ändå
 ls kollar vad man har i
+
+i början? prova git clone URL från din url, annars gör vad som står på urlen. se till att du står i mappen du vill vara i...
