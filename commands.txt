@@ -1,3 +1,5 @@
-git push -u origin master när man har ett tomt repository
+git push -u origin master när man har ett tomt repository eller vill lägga till en fil bara
 git status kollar statusen
-git commit -a -m "text"
+git commit -a -m "text" lägger till men inte final
+git pull gör något
+git push gör något
