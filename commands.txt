@@ -6,3 +6,9 @@ git push kanske vill lägga upp saker men man måste köra första commandot ändå
 ls kollar vad man har i
 
 i början? prova git clone URL från din url, annars gör vad som står på urlen. se till att du står i mappen du vill vara i...
+
+https://github.com/phredo/kvalit12test.git
+
+1. git add .
+2. git commit -a -m "text"
+3. git push -u origin master
