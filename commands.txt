@@ -1,0 +1,3 @@
+git push -u origin master när man har ett tomt repository
+git status kollar statusen
+git commit -a -m "text"
